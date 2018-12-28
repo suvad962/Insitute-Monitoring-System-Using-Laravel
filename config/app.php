@@ -55,7 +55,7 @@ return [
     'url' => env('APP_URL', 'http://localhost'),
 
     // custom remote url set here
-    'server_url' => 'http://153.92.4.251:3000/api/v1/',
+    'server_url' => 'Nothing to show',
 
     /*
     |--------------------------------------------------------------------------
